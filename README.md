@@ -8,7 +8,4 @@ Welcome to my github page, I'm Natalia 😀
 - 📫 How to reach me: natalialorenasilva@hotmail.com
 - ⚡ Fun fact: My code never has bugs, it just develops random unexpected features 😄
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natiloresilva&count_private=true&theme=cobalt))]
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natiloresilva&count_private=true&theme=cobalt&show_icons=true&include_all_commits=true)
