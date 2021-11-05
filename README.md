@@ -14,6 +14,6 @@ Welcome to my github page, I`m Natalia 😀
 - ⚡ Fun fact: My code never has bugs, it just develops random unexpected features 😄
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natiloresilva&count_private=true&theme=cobalt))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natiloresilva&count_private=true&theme=cobalt))]
 
 
